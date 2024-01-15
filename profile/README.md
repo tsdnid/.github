@@ -1,6 +1,4 @@
-# DomaiNesia Technical Support
-
-## Welcome to DomaiNesia's Technical Support GitHub Profile 👋
+## Welcome to DomaiNesia's Technical Support Specialist GitHub Profile 👋
 
 ### About Us
 
@@ -29,11 +27,12 @@ Explore our knowledge base for helpful articles, guides, and FAQs:
 
 We value collaboration and welcome contributions from the community. If you have suggestions, bug reports, or want to get involved, feel free to open an issue or submit a pull request.
 
-
-Thank you for choosing DomaiNesia! For any technical support inquiries, please visit our [Client Portal](https://my.domainesia.com/). We look forward to assisting you on your journey with DomaiNesia! 🌐🚀
-
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+
+Thank you for choosing DomaiNesia! For any technical support inquiries, please visit our [Client Portal](https://my.domainesia.com/). We look forward to assisting you on your journey with DomaiNesia! 🌐🚀
+
 ---
-[![](https://visitcount.itsvg.in/api?id=masdzub&icon=0&color=5)](https://visitcount.itsvg.in)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=masdzub&label=Profile%20views&color=0e75b6&style=flat" alt="masdzub" /> </p>
